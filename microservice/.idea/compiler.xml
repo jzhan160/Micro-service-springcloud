@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microserver-fiegn-consumer-8081" />
+        <module name="microservice-api" />
+        <module name="microservice-config-client-3355" />
+        <module name="microservice-config-server-3344" />
+        <module name="microservice-feign-consumer" />
+        <module name="microservice-hystrix-dashboard-9001" />
+        <module name="microservice-provider-8001" />
+        <module name="microservice-provider-8002" />
+        <module name="microservice-provider8001" />
+        <module name="microservice-ribbon-consumer-8080" />
+        <module name="microservice-server" />
+        <module name="microservice-server-7001" />
+        <module name="microservice-server-7002" />
+        <module name="microservice-server-7003" />
+        <module name="microservice-zuul-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microserver-fiegn-consumer-8081" target="1.8" />
+      <module name="microservice" target="1.8" />
+      <module name="microservice-api" target="1.8" />
+      <module name="microservice-config-client-3355" target="1.8" />
+      <module name="microservice-config-server-3344" target="1.8" />
+      <module name="microservice-feign-consumer" target="1.8" />
+      <module name="microservice-feign-consumer-8081" target="1.8" />
+      <module name="microservice-hystrix-dashboard-9001" target="1.8" />
+      <module name="microservice-provider-8001" target="1.8" />
+      <module name="microservice-provider-8002" target="1.8" />
+      <module name="microservice-provider8001" target="1.5" />
+      <module name="microservice-ribbon-consumer-8080" target="1.8" />
+      <module name="microservice-server" target="1.8" />
+      <module name="microservice-server-7001" target="1.8" />
+      <module name="microservice-server-7002" target="1.8" />
+      <module name="microservice-server-7003" target="1.8" />
+      <module name="microservice-zuul-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

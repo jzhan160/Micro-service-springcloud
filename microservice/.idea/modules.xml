@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microserver-fiegn-consumer-8081/microserver-fiegn-consumer-8081.iml" filepath="$PROJECT_DIR$/microserver-fiegn-consumer-8081/microserver-fiegn-consumer-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-api/microservice-api.iml" filepath="$PROJECT_DIR$/microservice-api/microservice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-client-3355/microservice-config-client-3355.iml" filepath="$PROJECT_DIR$/microservice-config-client-3355/microservice-config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-server-3344/microservice-config-server-3344.iml" filepath="$PROJECT_DIR$/microservice-config-server-3344/microservice-config-server-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-dashboard-9001/microservice-hystrix-dashboard-9001.iml" filepath="$PROJECT_DIR$/microservice-hystrix-dashboard-9001/microservice-hystrix-dashboard-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-8001/microservice-provider-8001.iml" filepath="$PROJECT_DIR$/microservice-provider-8001/microservice-provider-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-8002/microservice-provider-8002.iml" filepath="$PROJECT_DIR$/microservice-provider-8002/microservice-provider-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-ribbon-consumer-8080/microservice-ribbon-consumer-8080.iml" filepath="$PROJECT_DIR$/microservice-ribbon-consumer-8080/microservice-ribbon-consumer-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-server-7001/microservice-server-7001.iml" filepath="$PROJECT_DIR$/microservice-server-7001/microservice-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-server-7002/microservice-server-7002.iml" filepath="$PROJECT_DIR$/microservice-server-7002/microservice-server-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-server-7003/microservice-server-7003.iml" filepath="$PROJECT_DIR$/microservice-server-7003/microservice-server-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-zuul-9527/microservice-zuul-9527.iml" filepath="$PROJECT_DIR$/microservice-zuul-9527/microservice-zuul-9527.iml" />
+    </modules>
+  </component>
+</project>

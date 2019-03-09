@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: application-client
+      profile: dev
+      label: master
+      uri: http://config3344.com:3344

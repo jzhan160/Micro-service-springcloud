@@ -1,0 +1,5 @@
+com\microservice\provider\test\TestAPI.class
+com\microservice\provider\Provider8001Application.class
+com\microservice\provider\service\DeptService.class
+com\microservice\provider\controller\MainController.class
+com\microservice\provider\mapper\DeptMapper.class

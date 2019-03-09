@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserver-fiegn-consumer-8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-config-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-config-server-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-dashboard-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-ribbon-consumer-8080" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-server-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-server-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-server-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-zuul-9527" charset="UTF-8" />
+  </component>
+</project>
